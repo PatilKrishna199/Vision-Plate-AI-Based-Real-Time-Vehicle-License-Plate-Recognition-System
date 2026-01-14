@@ -1,4 +1,5 @@
 **License Plate Detection & Recognition from Video (Real-Time)**
+
 📌 Project Overview
 
 This project focuses on detecting and recognizing car license plates from video in real time using Computer Vision and OCR techniques. It processes video frames, detects number plate regions, and extracts alphanumeric characters using Tesseract OCR.
