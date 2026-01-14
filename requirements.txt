@@ -1,0 +1,7 @@
+pytesseract
+cv2
+numpy
+skimage.filters
+skimage
+measure
+imutils
